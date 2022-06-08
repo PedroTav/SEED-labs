@@ -1,0 +1,103 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4097 (0x1001)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=www.modelCA.com, O=Model CA LTD., C=US
+        Validity
+            Not Before: Jun  7 20:53:48 2022 GMT
+            Not After : Jun  4 20:53:48 2032 GMT
+        Subject: C=US, O=XYZ LTD., CN=www.pedro2022.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:b2:0d:87:f8:b0:8e:0f:42:22:ad:69:b1:20:fb:
+                    e2:6d:d8:f6:18:f5:4d:07:a0:87:8c:17:5d:d3:26:
+                    40:79:c4:2f:a5:5f:bd:0a:b1:64:18:f4:8d:32:ae:
+                    94:1c:7f:3b:e3:24:93:f8:11:50:59:a5:37:8e:b8:
+                    be:2b:a2:99:54:76:77:12:03:b4:18:33:1a:0e:50:
+                    69:52:39:3e:db:73:36:95:97:30:41:af:77:ad:f7:
+                    55:a1:70:a1:a6:45:14:e3:62:6f:1c:3a:9b:b4:e0:
+                    19:4f:79:1d:9f:48:8e:6a:cf:17:ed:b6:0f:3c:54:
+                    69:8f:7d:a6:1c:2d:dc:7c:9e:c8:3f:61:7d:c7:08:
+                    95:0e:28:cf:1c:11:40:41:4d:08:c9:7a:e6:dd:92:
+                    ae:1b:3f:2b:63:88:a8:06:09:86:03:75:1d:a8:f3:
+                    c6:46:62:35:b7:4c:f7:a1:5a:c2:98:52:76:87:45:
+                    58:29:32:8c:c4:74:f1:2c:9c:f4:12:f1:f2:b1:83:
+                    19:38:b3:89:03:f7:ca:af:64:e4:ed:da:b0:9d:de:
+                    37:1d:e7:ff:c6:2f:cf:ac:e3:1b:65:c5:66:e7:b2:
+                    ee:61:e3:53:73:63:3f:1e:29:fc:2d:66:8a:dd:f7:
+                    5d:a3:e9:3b:c4:32:2b:34:f8:43:fb:97:59:d8:bb:
+                    2b:ad
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                8B:DA:1D:33:3A:09:25:42:72:84:06:E4:F3:8B:B4:0F:F0:8A:2A:1B
+            X509v3 Authority Key Identifier: 
+                keyid:85:A7:C5:A9:94:46:96:EB:58:CC:5B:EC:78:92:42:6C:2B:CF:3C:AA
+
+            X509v3 Subject Alternative Name: 
+                DNS:www.pedro2022.com, DNS:mail.pedro2022.com, DNS:*.pedro2022.com
+    Signature Algorithm: sha256WithRSAEncryption
+         1c:37:c2:4b:1d:c8:2f:f3:bc:c5:8b:3a:9c:61:db:b4:f3:33:
+         c9:43:39:68:d8:8d:c1:82:cb:43:44:c6:83:2b:35:cb:77:61:
+         b7:50:f5:60:23:29:0f:38:79:59:d6:9c:12:98:6b:bc:10:b4:
+         4e:86:e5:83:bc:80:09:1d:dc:3d:66:a4:2b:40:58:47:ae:ff:
+         d6:0f:39:f9:3b:d4:c8:ad:1c:04:de:89:a2:eb:46:16:e5:d7:
+         ef:39:ae:65:25:e2:af:64:d4:17:24:79:c0:c3:fd:af:28:88:
+         5c:40:5c:24:62:84:4f:8a:7a:ad:39:d7:1a:2a:05:62:46:f8:
+         5a:44:b8:fc:0e:33:ec:70:23:cc:d9:c5:d6:57:bc:17:90:0d:
+         76:2d:43:07:9c:0c:24:33:16:12:ba:92:d1:b3:5a:5a:d6:20:
+         cb:08:3b:32:8d:95:43:16:6d:fd:5b:e1:0d:cc:7d:4e:70:2b:
+         ee:2f:73:ac:fc:73:bb:6e:52:0b:78:1f:4c:3b:38:e0:77:b9:
+         73:51:ee:b0:4a:9d:6f:ce:1b:77:d9:6b:cd:0c:a1:00:36:af:
+         66:37:90:f6:c6:2d:a5:f0:c9:b0:b6:fc:cf:3d:7c:48:a5:2c:
+         84:b3:65:c3:ef:f2:3f:ca:8e:d7:df:4e:67:5b:ad:11:46:c6:
+         51:82:33:a7:78:e5:80:5f:4c:07:51:97:48:da:ff:55:96:e5:
+         11:b0:02:bb:1e:7e:d4:68:16:3f:cc:55:84:64:11:7f:a3:15:
+         b1:e8:ed:6e:28:dd:78:e5:fa:55:d6:a5:6b:93:b3:16:3e:df:
+         e3:db:a5:79:be:1d:11:08:b2:37:fd:bd:f6:cb:51:69:d3:80:
+         ee:cc:12:34:39:49:8b:c2:76:da:bc:5f:a9:f0:2c:00:39:f7:
+         8e:a4:15:06:e7:a4:20:ab:cd:05:54:59:d3:b7:57:f1:34:61:
+         d5:2d:5f:34:74:f3:05:9a:bc:2f:b4:5b:eb:1a:d3:9a:3f:5a:
+         eb:3f:4f:87:58:42:57:ea:d3:d3:37:c9:5b:c1:7d:ff:ae:90:
+         16:d1:04:50:de:fb:79:f5:ee:88:b3:3e:0f:1c:f8:a9:8c:2c:
+         29:83:2c:ca:f7:7a:ac:79:9c:d4:a7:ac:12:f9:48:0a:b2:f0:
+         bf:c3:a0:dc:69:c9:bc:4a:c1:73:40:3b:8e:76:34:0c:3f:dd:
+         4b:ba:ed:65:0f:b1:f3:0e:6b:5f:dd:fe:c0:9c:d1:05:de:ec:
+         4a:1b:87:d3:0a:36:c5:ce:a8:d0:85:9c:c9:ff:5b:88:98:bb:
+         23:db:69:1a:03:d2:55:5a:d9:b0:c3:52:9f:fb:a3:6e:b1:1d:
+         11:d7:31:71:13:8c:12:0e
+-----BEGIN CERTIFICATE-----
+MIIEtzCCAp+gAwIBAgICEAEwDQYJKoZIhvcNAQELBQAwPzEYMBYGA1UEAwwPd3d3
+Lm1vZGVsQ0EuY29tMRYwFAYDVQQKDA1Nb2RlbCBDQSBMVEQuMQswCQYDVQQGEwJV
+UzAeFw0yMjA2MDcyMDUzNDhaFw0zMjA2MDQyMDUzNDhaMDwxCzAJBgNVBAYTAlVT
+MREwDwYDVQQKDAhYWVogTFRELjEaMBgGA1UEAwwRd3d3LnBlZHJvMjAyMi5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCyDYf4sI4PQiKtabEg++Jt
+2PYY9U0HoIeMF13TJkB5xC+lX70KsWQY9I0yrpQcfzvjJJP4EVBZpTeOuL4roplU
+dncSA7QYMxoOUGlSOT7bczaVlzBBr3et91WhcKGmRRTjYm8cOpu04BlPeR2fSI5q
+zxfttg88VGmPfaYcLdx8nsg/YX3HCJUOKM8cEUBBTQjJeubdkq4bPytjiKgGCYYD
+dR2o88ZGYjW3TPehWsKYUnaHRVgpMozEdPEsnPQS8fKxgxk4s4kD98qvZOTt2rCd
+3jcd5//GL8+s4xtlxWbnsu5h41NzYz8eKfwtZord912j6TvEMis0+EP7l1nYuyut
+AgMBAAGjgb8wgbwwCQYDVR0TBAIwADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBH
+ZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFIvaHTM6CSVCcoQG5POLtA/w
+iiobMB8GA1UdIwQYMBaAFIWnxamURpbrWMxb7HiSQmwrzzyqMEEGA1UdEQQ6MDiC
+EXd3dy5wZWRybzIwMjIuY29tghJtYWlsLnBlZHJvMjAyMi5jb22CDyoucGVkcm8y
+MDIyLmNvbTANBgkqhkiG9w0BAQsFAAOCAgEAHDfCSx3IL/O8xYs6nGHbtPMzyUM5
+aNiNwYLLQ0TGgys1y3dht1D1YCMpDzh5WdacEphrvBC0Toblg7yACR3cPWakK0BY
+R67/1g85+TvUyK0cBN6JoutGFuXX7zmuZSXir2TUFyR5wMP9ryiIXEBcJGKET4p6
+rTnXGioFYkb4WkS4/A4z7HAjzNnF1le8F5ANdi1DB5wMJDMWErqS0bNaWtYgywg7
+Mo2VQxZt/VvhDcx9TnAr7i9zrPxzu25SC3gfTDs44He5c1HusEqdb84bd9lrzQyh
+ADavZjeQ9sYtpfDJsLb8zz18SKUshLNlw+/yP8qO199OZ1utEUbGUYIzp3jlgF9M
+B1GXSNr/VZblEbACux5+1GgWP8xVhGQRf6MVsejtbijdeOX6Vdala5OzFj7f49ul
+eb4dEQiyN/299stRadOA7swSNDlJi8J22rxfqfAsADn3jqQVBuekIKvNBVRZ07dX
+8TRh1S1fNHTzBZq8L7Rb6xrTmj9a6z9Ph1hCV+rT0zfJW8F9/66QFtEEUN77efXu
+iLM+Dxz4qYwsKYMsyvd6rHmc1KesEvlICrLwv8Og3GnJvErBc0A7jnY0DD/dS7rt
+ZQ+x8w5rX93+wJzRBd7sShuH0wo2xc6o0IWcyf9biJi7I9tpGgPSVVrZsMNSn/uj
+brEdEdcxcROMEg4=
+-----END CERTIFICATE-----
